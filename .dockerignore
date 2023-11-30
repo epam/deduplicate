@@ -1,0 +1,8 @@
+/venv
+/flagged
+.gitignore
+README.md
+/models_cache
+LICENSE
+.idea
+.git
