@@ -16,7 +16,7 @@ Run the following command to start the server
 python deduplicate.py
 ```
 
-web interface will be available at `http://127.0.0.1:8899` (but you will see it in console output)
+web interface will be available at `http://locahost:8899` (but you will see it in console output)
 
 One you fill all the fields and click on 'Submit' button, you will see the results in the 'output' section
 
