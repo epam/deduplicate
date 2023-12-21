@@ -1,6 +1,6 @@
 gensim==4.3.1
 sentence-transformers==2.2.2
-gradio==3.37.0
+gradio==4.11.0
 torch==2.0.1
 tqdm==4.66.1
 transformers==4.33.2
